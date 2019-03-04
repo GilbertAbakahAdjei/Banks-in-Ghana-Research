@@ -1,0 +1,7 @@
+mongo==0.2.0
+numpy==1.14.3
+pandas==0.23.0
+python-dateutil==2.7.3
+python-twitter==3.4.2
+requests==2.18.4
+tweepy==3.6.0
